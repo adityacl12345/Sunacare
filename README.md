@@ -29,4 +29,5 @@ npm start
 ```
 
 - 'npm start' will watch for any changes in the plugin
-
+- activate the plugin named as "Newsletter CTA"
+- add a new block in any post (Block name: custom CGB block with a mail icon)
